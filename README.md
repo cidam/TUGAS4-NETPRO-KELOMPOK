@@ -43,16 +43,22 @@ Database yang dipakai adalah MongoDB. MongoDB adalah sistem basis data berorenta
   <a> Gambar program 4 </a>
 </p>
 
-[![Screen-Shot-2019-10-02-at-17-38-41.png](https://i.postimg.cc/JnWwVw7k/Screen-Shot-2019-10-02-at-17-38-41.png)](https://postimg.cc/wtF4LGmq)
+[![Screen-Shot-2019-10-02-at-17-38-32.png](https://i.postimg.cc/7h8ZWtds/Screen-Shot-2019-10-02-at-17-38-32.png)](https://postimg.cc/Fdpvfp93)
 
 <p align="center">
   <a> Gambar program 5 </a>
 </p>
 
-[![Screen-Shot-2019-10-02-at-17-38-49.png](https://i.postimg.cc/gjWGDXL1/Screen-Shot-2019-10-02-at-17-38-49.png)](https://postimg.cc/gXg9c0DK)
+[![Screen-Shot-2019-10-02-at-17-38-41.png](https://i.postimg.cc/JnWwVw7k/Screen-Shot-2019-10-02-at-17-38-41.png)](https://postimg.cc/wtF4LGmq)
 
 <p align="center">
   <a> Gambar program 6 </a>
+</p>
+
+[![Screen-Shot-2019-10-02-at-17-38-49.png](https://i.postimg.cc/gjWGDXL1/Screen-Shot-2019-10-02-at-17-38-49.png)](https://postimg.cc/gXg9c0DK)
+
+<p align="center">
+  <a> Gambar program 7 </a>
 </p>
 
 
@@ -64,6 +70,7 @@ Database yang dipakai adalah MongoDB. MongoDB adalah sistem basis data berorenta
 * Gambar 4 :
 * Gambar 5 :
 * Gambar 6 :
+* Gambar 7 :
 
 
 #### HASIL RUNNING NOMOR 2 ####

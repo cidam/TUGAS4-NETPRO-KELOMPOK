@@ -16,6 +16,9 @@
 </p> 
 
 #### HASIL RUNNING NOMOR 1 ####
+
+Database yang dipakai adalah MongoDB. MongoDB adalah sistem basis data berorentasi dokumen lintas platform. MongoDB diklasifikasikan sebagai basis data yang “NoSQL”, MongoDB menghindari struktur basis data relasional tabel berbasis tradisional yang mendukung JSON seperti dokumen dengan skema dinamis, membuat integrase data dalam beberapa jenis aplikasi lebih mudah dan juga cepat.
+
 #### HASIL RUNNING NOMOR 2 ####
 
 [![Screen-Shot-2019-10-02-at-15-33-07.png](https://i.postimg.cc/28wtn6WK/Screen-Shot-2019-10-02-at-15-33-07.png)](https://postimg.cc/HVr3gTBw)

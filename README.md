@@ -64,13 +64,13 @@ Database yang dipakai adalah MongoDB. MongoDB adalah sistem basis data berorenta
 
 ###### Keterangan Gambar ######
 
-* Gambar 1 :
-* Gambar 2 :
-* Gambar 3 :
-* Gambar 4 :
-* Gambar 5 :
-* Gambar 6 :
-* Gambar 7 :
+* Gambar 1 : 
+* Gambar 2 : Pada gambar kedua ini berfungsi untuk menambahkan data karyawan baru dengan format nama, email, phone number, dan address
+* Gambar 3 : Pada gambar ketiga ini adalah hasil dari penambahan data karyawan baru pada gambar sebelumnya
+* Gambar 4 : Pada gambar keempat berfungsi untuk mengedit data karyawan. Data-data yang dapat diedit adalah nama, email, phone number dan juga address
+* Gambar 5 : Pada gambar kelima adalah hasil edit pada gambar di nomor 4. Hasil editannya adalah namanya berubah dari yang sebelumnya kelompok 4 menjadi kelompok 40
+* Gambar 6 : Pada gambar keenam berfungsi untuk menghapus data karyawan, tapi sebelum akan dihapus akan muncul konfirmasi untuk menanyakan kembali apakah benar-benar akan dihapus data karyawannya
+* Gambar 7 : Pada gambar terakhir adalah hasil setelah data karyawan kelompok 40 dihapus pada gambar sebelumnya
 
 
 #### HASIL RUNNING NOMOR 2 ####

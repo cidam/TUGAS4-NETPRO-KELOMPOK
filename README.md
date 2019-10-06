@@ -64,7 +64,7 @@ Database yang dipakai adalah MongoDB. MongoDB adalah sistem basis data berorenta
 
 ###### Keterangan Gambar ######
 
-* Gambar 1 : 
+* Gambar 1 : Pada gambar pertama, fungsinya untuk memberikan pemberitahuan ketika kita melakukan insert, update maupun delete pada data berhasil atau tidak.
 * Gambar 2 : Pada gambar kedua ini berfungsi untuk menambahkan data karyawan baru dengan format nama, email, phone number, dan address
 * Gambar 3 : Pada gambar ketiga ini adalah hasil dari penambahan data karyawan baru pada gambar sebelumnya
 * Gambar 4 : Pada gambar keempat berfungsi untuk mengedit data karyawan. Data-data yang dapat diedit adalah nama, email, phone number dan juga address
